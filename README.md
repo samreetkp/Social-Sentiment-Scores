@@ -76,10 +76,4 @@ If no file name is provided, it will default to using `review.txt`:
 ```
 ![image](https://github.com/user-attachments/assets/90807731-de0d-4d1c-bdfd-6e20eab1421a)
 
-![image](https://github.com/user-attachments/assets/d2de9052-6df2-4a10-949a-a9acd3852680)
-...
-![image](https://github.com/user-attachments/assets/bfad986d-5ce7-4150-99b0-1f5a9df0c62d)
-
-
-
 
