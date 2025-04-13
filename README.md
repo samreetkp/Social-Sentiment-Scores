@@ -515,3 +515,11 @@ good.txt Stars: ★★★★★
 bad.txt Score: 0.62
 bad.txt Stars: ★★★
 ```
+---
+## Star Rating Scale
+
+- Score < -5.0 → ⭐
+- 5.0 ≤ Score < -1.0 → ⭐⭐
+- 1.0 ≤ Score < 1.0 → ⭐⭐⭐
+- 1.0 ≤ Score < 5.0 → ⭐⭐⭐⭐
+- Score ≥ 5.0 → ⭐⭐⭐⭐⭐
